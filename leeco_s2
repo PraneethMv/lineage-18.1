@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<project name="PraneethMv/android_device_leeco_s2" path="device/leeco/s2" remote="github" revision="lineage-18.1" />
+<project name="PraneethMv/android_kernel_leeco_msm8976" path="kernel/leeco/msm8976" remote="github" revision="lineage-18.1" />
+<project name="PraneethMv/proprietary_vendor_leeco" path="vendor/leeco/s2" remote="github" revision="lineage-18.1" />
+
+</manifest>
