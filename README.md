@@ -74,3 +74,11 @@ make ims-common
 
 # Step 6: Build it:
 brunch [codename]
+
+# Changes to Repo - Notes to self:
+# 1 - VINTF
+Reason: Switch VINTF manifests
+
+Location: android_device_leeco_s2/proprietary-files-qc.txt
+
+Change: 
